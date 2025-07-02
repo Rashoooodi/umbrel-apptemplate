@@ -1,0 +1,9 @@
+version: 0.1
+slug: zigbee2mqtt
+name: Zigbee2MQTT
+description: Run Zigbee2MQTT with Web UI and MQTT.
+releaseNotes: First version
+developer: Rashid
+repo: https://github.com/Rashoooodi/umbrel-apptemplate
+support: https://koenkk.github.io/zigbee2mqtt
+port: 8080
